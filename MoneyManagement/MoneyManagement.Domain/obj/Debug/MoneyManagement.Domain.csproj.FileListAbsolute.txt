@@ -1,0 +1,10 @@
+C:\Users\William\source\repos\MoneyManagement\MoneyManagement.Domain\bin\Debug\MoneyManagement.Domain.dll
+C:\Users\William\source\repos\MoneyManagement\MoneyManagement.Domain\bin\Debug\MoneyManagement.Domain.pdb
+C:\Users\William\source\repos\MoneyManagement\MoneyManagement.Domain\bin\Debug\FluentValidation.dll
+C:\Users\William\source\repos\MoneyManagement\MoneyManagement.Domain\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\William\source\repos\MoneyManagement\MoneyManagement.Domain\bin\Debug\FluentValidation.xml
+C:\Users\William\source\repos\MoneyManagement\MoneyManagement.Domain\obj\Debug\MoneyManagement.Domain.csprojAssemblyReference.cache
+C:\Users\William\source\repos\MoneyManagement\MoneyManagement.Domain\obj\Debug\MoneyManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\MoneyManagement\MoneyManagement.Domain\obj\Debug\MoneyManagement.Domain.csproj.CopyComplete
+C:\Users\William\source\repos\MoneyManagement\MoneyManagement.Domain\obj\Debug\MoneyManagement.Domain.dll
+C:\Users\William\source\repos\MoneyManagement\MoneyManagement.Domain\obj\Debug\MoneyManagement.Domain.pdb
